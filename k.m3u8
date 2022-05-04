@@ -1,0 +1,1138 @@
+#EXTM3U url-tvg="http://bit.ly/guidevn" tvg-shift=0 cache=500 deinterlace=1 aspect-ratio=16:9 m3uautoload=1 
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+#https://live.vegacdn.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+https://ottlive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://live.vegacdn.kplus.vn/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://live.vegacdn.kplus.vn/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://live.vegacdn.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KKIDS.png", K+KIDS
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://live.vegacdn.kplus.vn/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
+
+#EXTINF:0 group-title="🍭| K+" tvg-id="vtvcab16hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/ON_Football_logo_14-10-2021_%28B%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/1000?cb=20211027102914&path-prefix=vi", ON Football 
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKcab16|Referer=http://sctvonline.vn/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtvcab16-bongdatv_fps/prod_vtvcab16-bongdatv_fps.isml/prod_vtvcab16-bongdatv_fps.mpd
+#EXTINF:0 group-title="🍭| K+" tvg-id="vtvcab3hd" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-1-1630981223040446100091.jpg", ON Sports
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKcab3|Referer=http://sctvonline.vn/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtvcab3-thethaotv_fps/prod_vtvcab3-thethaotv_fps.isml/prod_vtvcab3-thethaotv_fps.mpd
+#EXTINF:0 group-title="🍭| K+" tvg-id="vtvcab6hd" tvg-logo="https://avg.vn/wp-content/uploads/2021/06/ON-Sports-1024x354.png", ON Sports+
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKcab6|Referer=http://sctvonline.vn/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtvcab6-hay_tv_fps/prod_vtvcab6-hay_tv_fps.isml/prod_vtvcab6-hay_tv_fps.mpd
+
+
+#EXTINF:0 group-title="🍭| K+" tvg-id="vtv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/VTV6_logo_%282007-2012%29%281%29.png/revision/latest/scale-to-width-down/1000?cb=20180802054944&path-prefix=vi",VTV6
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtv6_hd_fps/prod_vtv6_hd_fps.isml/prod_vtv6_hd_fps.mpd
+#EXTINF:0 group-title="🍭| K+" tvg-id="hitshd" tvg-logo="https://me.nguoitieudung.vn/uploads/2021/09/28/2109280954-a2.png",Hits
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_hits_fps/prod_hits_fps.isml/prod_hits_fps.mpd
+#EXTINF:0 group-title="🍭| K+" tvg-id="hbohd" tvg-logo="https://logodix.com/logo/95790.png",HBO
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live.vegacdn.kplus.vn/live/prod_hbo_fps/prod_hbo_fps.isml/prod_hbo_fps.mpd
+#EXTINF:0 group-title="🍭| K+" tvg-id="cinemaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live.vegacdn.kplus.vn/live/prod_cinemax_fps/prod_cinemax_fps.isml/prod_cinemax_fps.mpd
+
+#EXTINF:0 group-title="🍭| K+" tvg-id="sctv9" tvg-logo="https://vthanh.xyz/ic/85.png", SCTV9
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live.vegacdn.kplus.vn/live/prod_sctv9_fps/prod_sctv9_fps.isml/prod_sctv9_fps.mpd
+
+
+#EXTINF:0 group-title="🍭| K+" tvg-id="axn" tvg-logo="https://i.ibb.co/ck0mm20/AXN-BEARTV.png", AXN
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_axn_hd_fps/prod_axn_hd_fps.isml/prod_axn_hd_fps.mpd
+
+#EXTINF:0 group-title="🍭| K+" tvg-id="historyhd" tvg-logo="https://kplus-website-production-cdn.azureedge.net/content/upload/1/ccd/logo-history.png", HISTORY
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_history_hd_fps/prod_history_hd_fps.isml/prod_history_hd_fps.mpd
+#🅓🅞🅝🅣 🅒🅞🅟🅨 🅟🅛🅔🅐🅢🅔!-Kh+
+
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="ksport1hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/64/Kplus_Sport_1.png/revision/latest/scale-to-width-down/756?cb=20211011130430&path-prefix=vi",xem khichtv  K+ Sport 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKspt1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="ksport2hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b3/Kplus_Sport_2.png/revision/latest/scale-to-width-down/774?cb=20211011130352&path-prefix=vi",xem khichtv  K+ Sport 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKspt2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="kcinehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b6/Kplus_Cine.png/revision/latest/scale-to-width-down/588?cb=20211011125849&path-prefix=vi",Xem KhíchTV K+ Cine
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKcine
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKcine
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="klifehd" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/f1/Kplus_Life.png/revision/latest/scale-to-width-down/524?cb=20211011130056&path-prefix=vi",xem khichtv  K+ Life
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKlife
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="vtvcab16hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/9/94/ON_Football_logo_14-10-2021_%28B%E1%BA%A3n_2%29.png/revision/latest/scale-to-width-down/1000?cb=20211027102914&path-prefix=vi",xem khichtv ON Football 
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKcab16|Referer=http://sctvonline.vn/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtvcab16-bongdatv_fps/prod_vtvcab16-bongdatv_fps.isml/prod_vtvcab16-bongdatv_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="vtvcab3hd" tvg-logo="https://vtv1.mediacdn.vn/2021/9/7/photo-1-1630981223040446100091.jpg",xem khichtv ON Sports
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKcab3|Referer=http://sctvonline.vn/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtvcab3-thethaotv_fps/prod_vtvcab3-thethaotv_fps.isml/prod_vtvcab3-thethaotv_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="vtvcab6hd" tvg-logo="https://avg.vn/wp-content/uploads/2021/06/ON-Sports-1024x354.png",xem khichtv  ON Sports+
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKcab6|Referer=http://sctvonline.vn/
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtvcab6-hay_tv_fps/prod_vtvcab6-hay_tv_fps.isml/prod_vtvcab6-hay_tv_fps.mpd
+
+#EXTINF:-1 tvg-id="sctv15hd" group-title="🇸| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/7/76/SCTV15_SSport_2_2020.png/revision/latest/scale-to-width-down/190?cb=20210820043629&path-prefix=vi",xem khichtv SCTV15
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccsctv15|Referer=http://sctvonline.vn/
+#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv15/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv15/sd1/index.m3u8?md5=npxSf8DiNb6h-lo6eNV-ow&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv17hd" group-title="🇸| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/6/6f/SCTV17_SSport_2020.png/revision/latest/scale-to-width-down/190?cb=20210820120425&path-prefix=vi",xem khichtv SCTV17
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccsctv17|Referer=http://sctvonline.vn/
+#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv17/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv17/sd1/index.m3u8?md5=Ta95m8zjauF5U4Ya8NsJvg&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="sctv22hd" group-title="🇸| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/f/ff/SCTV22_SSport_1_2020.png/revision/latest/scale-to-width-down/190?cb=20210821044018&path-prefix=vi",xem khichtv SCTV22
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccsctv22|Referer=http://sctvonline.vn/
+#https://e1.endpoint.cdn.sctvonline.vn/hls/sctv22/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e1.endpoint.cdn.sctvonline.vn/secure/sctv22/sd1/index.m3u8?md5=MP6PbU0wC37imEmBeKk0EQ&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 tvg-id="btv5hd" group-title="🇸| SCTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/5/51/SSport_3.png/revision/latest/scale-to-width-down/190?cb=20200611142938&path-prefix=vi",BTV5
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccbtv5|Referer=http://sctvonline.vn/
+#https://e2.endpoint.cdn.sctvonline.vn/hls/btv5/sd2/index.m3u8|Referer=http://sctvonline.vn/
+https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:0 tvg-id="htvthethaohd" group-title="🌇| HTV" tvg-logo="https://static.wikia.nocookie.net/logos/images/3/34/HTV_Th%E1%BB%83_Thao_logo.png/revision/latest/scale-to-width-down/340?cb=20190725224504&path-prefix=vi",xem khichtv  HTV Thể Thao
+https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/ HTV-THETHAO-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K+ Sport 1 saky khich
+#https://bf.moonmagic.cn/live/sd-1-3565130.m3u8
+http://93.157.62.180/KSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/rcK5Pbj/Ksport1-BEARTV.png", K+ Sport 2 Loren khich
+http://93.157.62.180/KSport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/R2jPrQ8/Fox-Sports-BEARTV.png", FOX SPORT
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13349
+#http://38.131.11.9:1080/play/a02k
+#EXTINF:0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/m6KmHcX/foxsport2-BEARTV.png", FOX SPORT 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13352
+#http://38.131.11.9:1080/play/a033
+#EXTINF:0 tvg-id="" group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/DDvdY9W/foxsport3-BEARTV.png", FOX SPORT 3
+http://38.131.11.9:1080/play/a034
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vdHwYRp/eleven1-BEARTV.png" group-title="KÊNH THỂ THAO", ELEVEN SPORTS 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/j5w1QnB/eleven2-BEARTV.png" group-title="KÊNH THỂ THAO", ELEVEN SPORTS 2
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="kkidshd" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b4/Kplus_Kids.png/revision/latest/scale-to-width-down/568?cb=20211011130239&path-prefix=vi",xem khichtv K+ Kids
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#http://gg.gg/ccKkids
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
+
+#EXTINF:0 tvg-id="vtc3hd" group-title="🔰| VTC" tvg-logo="https://static.wikia.nocookie.net/logos/images/e/e5/VTC3.png/revision/latest/scale-to-width-down/340?cb=20201207142820&path-prefix=vi" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc3_1000.stream/chunks_dvr_range-${start}-10800.m3u8",VTC3
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:0 tvg-id="vtv5hd" group-title="🌾| VTV ¹⁰⁸⁰" tvg-logo="https://lichtruyenhinhtv.com/uploads/lich-phat-song-vtv5.png",xem khichtv VTV5
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="vtv6hd" tvg-logo="https://static.wikia.nocookie.net/logos/images/8/89/VTV6_logo_%282007-2012%29%281%29.png/revision/latest/scale-to-width-down/1000?cb=20180802054944&path-prefix=vi",xem khichtv VTV6
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_vtv6_hd_fps/prod_vtv6_hd_fps.isml/prod_vtv6_hd_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="hitshd" tvg-logo="https://me.nguoitieudung.vn/uploads/2021/09/28/2109280954-a2.png",Hits
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://kpluslive.akamaized.net/live/prod_hits_fps/prod_hits_fps.isml/prod_hits_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="hbohd" tvg-logo="https://logodix.com/logo/95790.png",HBO
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live.vegacdn.kplus.vn/live/prod_hbo_fps/prod_hbo_fps.isml/prod_hbo_fps.mpd
+#EXTINF:0 group-title="🍬| K+ logo" tvg-id="cinemaxhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=B3A30136DB4CCE5E&Ticket=8B2100CB60332994
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://live.vegacdn.kplus.vn/live/prod_cinemax_fps/prod_cinemax_fps.isml/prod_cinemax_fps.mpd
+
+#EXTINF:0 tvg-id="animaxhd" group-title="🐣| Baby" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6f/Animax.png",Animax
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vips-livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist_b250000.m3u8
+#-*--Kẹo-*--#
+#EXTINF:-1 tvg-id="kcinehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KCINE.png", K+CINE HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000015&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://live.vegacdn.kplus.vn/live/prod_kplus_1_hd_fps/prod_kplus_1_hd_fps.isml/prod_kplus_1_hd_fps.mpd
+#EXTINF:-1 tvg-id="klifehd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KLIFE.png", K+LIFE HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000016&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://live.vegacdn.kplus.vn/live/prod_kplus_ns_hd_fps/prod_kplus_ns_hd_fps.isml/prod_kplus_ns_hd_fps.mpd
+#EXTINF:-1 tvg-id="ksport1hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT1.png", K+SPORT1 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000017&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://live.vegacdn.kplus.vn/live/prod_kplus_pm_hd_fps/prod_kplus_pm_hd_fps.isml/prod_kplus_pm_hd_fps.mpd
+#EXTINF:-1 tvg-id="ksport2hd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KSPORT2.png", K+SPORT2 HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&ContentId=400000018&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://live.vegacdn.kplus.vn/live/prod_kplus_pc_hd_fps/prod_kplus_pc_hd_fps.isml/prod_kplus_pc_hd_fps.mpd
+#EXTINF:-1 tvg-id="kkidshd" group-title="🍭| K+" tvg-logo="https://img.kplus.vn/media/channels/sg/channelicons/KKIDS.png", K+KIDS HD
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://kplus.live.ott.irdeto.com/Widevine/GetLicense?CrmId=kplus&AccountId=kplus&SessionId=14C0F1BB9A14154D&Ticket=F75ECCDF30FDD78A|Accept-Language=vi&Content-Type=application%2Foctet-stream&Host=kplus.live.ott.irdeto.com&Origin=https%3A%2F%2Fxem.kplus.vn&User-Agent=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F92.0.4515.159+Safari%2F537.36|R{{SSM}}
+https://live.vegacdn.kplus.vn/live/prod_kplus_kids_hd_fps/prod_kplus_kids_hd_fps.isml/prod_kplus_kids_hd_fps.mpd
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 FPT 
+http://180.93.172.213/vtv6tlnq/mpegts
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 FPT sv2
+http://180.93.172.125/vtv6tlnq/mpegts
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/8.png", VTV6 VNPT
+http://180.93.172.125/vtv6vnpt/mpegts
+
+#-*--VTV-*--#
+#EXTINF:-1 tvg-id="vtv1hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/1.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV1 HD
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv2hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/2.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv2_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV2 HD
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv3hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/3.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv3hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV3 HD
+https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv4hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/4.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv4_2000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV4 HD
+https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv5hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/5.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv5hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV5 HD
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtnb" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/6.png", VTV5 HD Tây Nam Bộ
+https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+#EXTINF:-1 tvg-id="vtv5hdtn" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/7.png", VTV5 Tây Nguyên
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+#EXTINF:-1 tvg-id="vtv6hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/8.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV6 HD
+https://livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv7hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/9.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv7hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV7 HD
+https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv8hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/10.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv8hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV8 HD
+https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtv9hd" group-title="❤| VTV" tvg-logo="https://vthanh.xyz/ic/11.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtv9_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTV9 HD
+https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
+#-*--VTVCAB-*--#
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/12.png", VTVcab 1 - Vie Giải trí HD
+http://vthanh.me/vieon.m3u8?type=tivi&kenh=vie-giai-tri-hd
+#EXTINF:-1 tvg-id="vtvcab2hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/13.png", VTVcab 2 - On Phim Việt
+http://vthanh.me/sctv.m3u8?id=vtvcab2|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab3hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/14.png", VTVcab 3 - On Sports
+http://vthanh.me/sctv.m3u8?id=vtvcab3|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab4hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/16.png", VTVcab 4
+http://vthanh.me/sctv.m3u8?id=vtvcab4|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab5hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/17.png", VTVcab 5 - E Channel
+http://vthanh.me/sctv.m3u8?id=vtvcab5|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab6hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/18.png", VTVcab 6 - On Sports +
+http://vthanh.me/vtvgo.m3u8?id=196
+#EXTINF:-1 tvg-id="vtvcab7hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/19.png", VTVcab 7 - Sức khỏe và Cuộc sống
+http://vthanh.me/sctv.m3u8?id=vtvcab7|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab8hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/20.png", VTVcab 8 - BiBi
+http://vthanh.me/sctv.m3u8?id=vtvcab8|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab9hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/21.png", VTVcab 9 - Info TV
+http://vthanh.me/sctv.m3u8?id=vtvcab9|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab10hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/22.png", VTVcab 10 - On Cine
+http://vthanh.me/sctv.m3u8?id=vtvcab10|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab12hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/23.png", VTVcab 12 - Style TV
+http://vthanh.me/sctv.m3u8?id=vtvcab12|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab15hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/24.png", VTVcab 15
+http://vthanh.me/sctv.m3u8?id=vtvcab15|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab16hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/26.png", VTVcab 16 - On Football
+http://vthanh.me/sctv.m3u8?id=vtvcab16|Referer=http://sctvonline.vn
+#EXTINF:-1 tvg-id="vtvcab17hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/27.png", VTVcab 17 - Yeah1TV
+http://vthanh.me/vtvgo.m3u8?id=195
+#EXTINF:-1 tvg-id="vtvcab19hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/29.png", VTVcab 19 - Vie Dramas
+http://vthanh.me/vieon.m3u8?type=tivi&kenh=vie-dramas-hd
+#EXTINF:-1 tvg-id="vtvcab20hd" group-title="🧡| VTVcab" tvg-logo="https://vthanh.xyz/ic/30.png", VTVcab 20 - VFamily
+http://vthanh.me/sctv.m3u8?id=vtvcab20|Referer=http://sctvonline.vn
+
+#-*--VTC-*--#
+#EXTINF:-1 tvg-id="vtc1" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/34.png" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?type=dvr&kenh=vtc1-hd&time=${start}&offset=${offset}", VTC1 HD
+https://vtc130121.cdn.vnns.io/VTC1/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc2" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/35.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc2_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC2
+https://vtc130121.cdn.vnns.io/VTC2/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc3hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/36.png" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?type=dvr&kenh=vtc3-hd&time=${start}&offset=${offset}", VTC3 HD
+https://vtc130121.cdn.vnns.io/VTC3/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc4hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/37.png" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?type=dvr&kenh=vtc4-yeah1-family-hd&time=${start}&offset=${offset}", VTC4 HD
+https://livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="vtc5hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/38.png" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?type=dvr&kenh=vtc5-hd&time=${start}&offset=${offset}", VTC5 HD
+https://vtc130121.cdn.vnns.io/VTC5/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc6hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/39.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc6_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC6 HD
+https://vtc130121.cdn.vnns.io/VTC6/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc7hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/40.png" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?type=dvr&kenh=vtc7-todaytv-hd&time=${start}&offset=${offset}", VTC7 HD - TodayTV
+https://vtc130121.cdn.vnns.io/VTC7/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc8" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/41.png" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?type=dvr&kenh=vtc8&time=${start}&offset=${offset}", VTC8
+https://vtc130121.cdn.vnns.io/VTC8/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc9hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/42.png" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?type=dvr&kenh=vtc9-hd&time=${start}&offset=${offset}", VTC9 HD
+https://vtc130121.cdn.vnns.io/VTC9/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc10" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/43.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc10_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC10 HD
+https://vtc130121.cdn.vnns.io/VTC10/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc11" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/44.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/vtc11_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", VTC11
+https://vtc130121.cdn.vnns.io/VTC11/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc12" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/45.png", VTC12 - VTC K
+https://vtc130121.cdn.vnns.io/VTC12/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc13hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/46.png", VTC13 HD
+https://vtc130121.cdn.vnns.io/VTC13/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc13hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/46.png", VTC13 4K
+http://vcdn1.vtc.gov.vn:1935/m_4K/smil:4k.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc14hd" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/47.png" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?type=dvr&kenh=vtc14-hd&time=${start}&offset=${offset}", VTC14 HD
+https://vtc130121.cdn.vnns.io/VTC14/playlist.m3u8
+#EXTINF:-1 tvg-id="vtc16" group-title="💙| VTC" tvg-logo="https://vthanh.xyz/ic/48.png" catchup="append" catchup-days="0.3" catchup-source="http://vthanh.me/vieon.m3u8?type=dvr&kenh=vtc16-hd&time=${start}&offset=${offset}", VTC16 HD
+http://livecdn.fptplay.net/sdb/vtc16_2000.stream/chunklist.m3u8
+
+#-*--HTV&HTVC-*--#
+#EXTINF:-1 tvg-id="htv1" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/49.png", HTV1
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv2hd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/50.png", HTV2 - Vie Channel
+https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv3" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/51.png", HTV3 - DreamsTV
+https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="htv4" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/52.png", HTV Key
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="htv7hd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/53.png", HTV7 HD
+https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="htv9hd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/54.png", HTV9 HD
+https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/55.png", HTV CO.OP
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVCOOP-SD-ABR/HTV-ABR/HTVCOOP-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvthethaohd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/56.png", HTV Thể Thao
+https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+ 
+#EXTINF:-1 tvg-id="htvcthuanviet" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/57.png", HTVC Thuần Việt
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcthuanviethd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/58.png", HTVC Thuần Việt HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcgiadinhhd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/60.png", HTVC Gia đình HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphunuhd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/59.png", HTVC Phụ nữ HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcdulichhd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/61.png", HTVC Du lịch Cuộc sống HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-DULICH-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvccanhachd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/63.png", HTVC Ca nhạc HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-CANHAC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcphimhd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/62.png", HTVC Phim HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHIM-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcplushd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/64.png", HTVC Plus HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PLUS-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="htvcfbnchd" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/66.png", FBNC HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FBNC-HD-1080p/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="💛| HTV" tvg-logo="https://vthanh.xyz/ic/65.png", HTVC Homeshopping
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/playlist.m3u8
+ 
+#-*--SCTV-*--#
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/67.png", SCTV1 HD
+http://vthanh.me/sctv.m3u8?id=sctv1|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv2hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/68.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/netstars/chunklist_2_${start}.m3u8", SCTV2
+http://vthanh.me/sctv.m3u8?id=sctv2|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv3hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/69.png", SCTV3 HD
+http://vthanh.me/sctv.m3u8?id=sctv3|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv4hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/70.png", SCTV4 HD
+http://vthanh.me/sctv.m3u8?id=sctv4|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/71.png", SCTV5 HD
+http://vthanh.me/sctv.m3u8?id=sctv5|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv6hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/72.png" catchup="append" catchup-days="0.3" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/73.png", SCTV7 HD
+http://vthanh.me/sctv.m3u8?id=sctv7|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv8hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/74.png", SCTV8 HD
+http://vthanh.me/sctv.m3u8?id=sctv8|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv9hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/75.png", SCTV9 HD
+http://vthanh.me/sctv.m3u8?id=sctv9|Referer=http://sctvonline.vn/
+#EXTINF:-1 group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/76.png", SCTV10
+http://vthanh.me/sctv.m3u8?id=sctv10|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv11hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/77.png", SCTV11 HD
+http://vthanh.me/sctv.m3u8?id=sctv11|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv12hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/78.png", SCTV12 HD
+http://vthanh.me/sctv.m3u8?id=sctv12|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv13hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/79.png", SCTV13 HD
+http://vthanh.me/sctv.m3u8?id=sctv13|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv14hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/80.png", SCTV14 HD
+http://vthanh.me/sctv.m3u8?id=sctv14|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv15hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/81.png", SCTV15 HD
+http://vthanh.me/sctv.m3u8?id=sctv15|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv16hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/82.png", SCTV16 HD
+http://vthanh.me/sctv.m3u8?id=sctv16|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv17hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/83.png", SCTV17 HD
+http://vthanh.me/sctv.m3u8?id=sctv17|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv18hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/84.png", SCTV18 HD
+http://vthanh.me/sctv.m3u8?id=sctv18|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv19hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/85.png", SCTV19 HD
+http://vthanh.me/sctv.m3u8?id=sctv19|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv20hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/86.png", SCTV20 HD
+http://vthanh.me/sctv.m3u8?id=sctv20|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv21hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/87.png", SCTV21 HD
+http://vthanh.me/sctv.m3u8?id=sctv21|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctv22hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/88.png", SCTV22 HD
+http://vthanh.me/sctv.m3u8?id=sctv22|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/239.png", SCTV Phim Tổng Hợp
+http://vthanh.me/sctv.m3u8?id=sctvpth|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="btv5hd" group-title="💚| SCTV" tvg-logo="https://vthanh.xyz/ic/238.png", BTV5 HD
+http://vthanh.me/sctv.m3u8?id=btv5|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="hbohd" group-title="🎞| HBO" tvg-logo="https://vthanh.xyz/ic/244.png", HBO HD
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cinemaxhd" group-title="🎞| HBO" tvg-logo="https://vthanh.xyz/ic/245.png", Cinemax HD
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="boxmovie1" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/192.png", Box Movie 1
+http://vthanh.me/sctv.m3u8?id=boxmovie|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="hollywoodclassics" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/193.png", Hollywood Classics
+http://vthanh.me/sctv.m3u8?id=hollywood|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="inthebox" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/241.png"  catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-channel/chunklist_2_${start}.m3u8", In The Box
+http://103.195.238.226/inthebox/mpegts
+#EXTINF:-1 tvg-id="boxhits" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/242.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/box-hits/chunklist_2_${start}.m3u8", Box Hits
+http://103.195.238.226/boxhits/mpegts
+#EXTINF:-1 tvg-id="man" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/243.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/man-tv/chunklist_2_${start}.m3u8", Man
+http://103.195.238.226/man/mpegts
+#EXTINF:-1 tvg-id="drfithd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/196.png", Dr Fit
+http://vthanh.me/sctv.m3u8?id=drfit|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="happykids" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/194.png", Happy Kids
+http://vthanh.me/sctv.m3u8?id=happykids|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="musicbox" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/240.png", Music Box
+http://vthanh.me/sctv.m3u8?id=musicbox|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="planetearthhd" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/195.png", Planet Earth
+http://vthanh.me/sctv.m3u8?id=planetearth|Referer=http://sctvonline.vn/
+#EXTINF:-1 tvg-id="woman" group-title="📦| In The Box" tvg-logo="https://vthanh.xyz/ic/197.png" catchup="append" catchup-days="0.3" catchup-source="https://8387100975.vws.vegacdn.vn/live/woman/chunklist_2_${start}.m3u8", Woman
+http://vthanh.me/sctv.m3u8?id=woman|Referer=http://sctvonline.vn/
+
+
+#EXTINF:-1 tvg-id="animaxhd" group-title="🌈| Hoạt hình" tvg-logo="https://vthanh.xyz/ic/198.png", Animax HD
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="boomerang" group-title="🌈| Hoạt hình" tvg-logo="https://vthanh.xyz/ic/199.png", Boomerang HD
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="babyfirst" group-title="👶| Thiếu nhi" tvg-logo="https://vthanh.xyz/ic/203.png", BabyFirst
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="babytvhd" group-title="👶| Thiếu nhi" tvg-logo="https://vthanh.xyz/ic/187.png", BabyTV HD
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="cartoonhd" group-title="🌈| Hoạt hình" tvg-logo="https://vthanh.xyz/ic/200.png", Cartoon Network HD
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="davincihd" group-title="⚗| Khoa học" tvg-logo="https://vthanh.xyz/ic/204.png", Da Vinci HD
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="dreamworks" group-title="🌈| Hoạt hình" tvg-logo="https://vthanh.xyz/ic/185.png", Dreamworks
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="bbcearth" group-title="🚽| BBC" tvg-logo="https://vthanh.xyz/ic/205.png", BBC Earth
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="bbclifestyle" group-title="🚽| BBC" tvg-logo="https://vthanh.xyz/ic/206.png", BBC Lifestyle
+https://livecdn.fptplay.net/sdb/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 tvg-id="cbeebies" group-title="🚽| BBC" tvg-logo="https://vthanh.xyz/ic/207.png", BBC Cbeebies
+https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="bbcworldnews" group-title="🚽| BBC" tvg-logo="https://vthanh.xyz/ic/208.png", BBC World News
+https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="arirang" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/209.png", Arirang
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
+#EXTINF:-1 tvg-id="abcaustralia" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/210.png", ABC Australia
+https://livecdn.fptplay.net/sdb/australiaplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="bloomberg" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/211.png", Bloomberg
+https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
+#EXTINF:-1 tvg-id="cnbc" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/250.png", CNBC
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cnn" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/212.png", CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+#EXTINF:-1 tvg-id="cna" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/213.png", CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/214.png", CGTN
+https://live.cgtn.com/1000/prog_index.m3u8
+#EXTINF:-1 tvg-id="dw" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/215.png", DW
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1 tvg-id="france24eng" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/216.png", France 24
+http://f24hls-i.akamaihd.net/hls/live/221147-b/F24_EN_HI_HLS/01.m3u8
+#EXTINF:-1 tvg-id="kbsworld" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/217.png", KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/218.png", NHK World
+https://livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/219.png", TV5Monde
+https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="" group-title="🌏| Quốc tế" tvg-logo="https://vthanh.xyz/ic/220.png", TRT World
+https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
+
+#EXTINF:-1 tvg-id="afnhd" group-title="🍽| Ẩm thực" tvg-logo="https://vthanh.xyz/ic/221.png", Asian Food Network
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-id="animalhd" group-title="🌿| Khám phá" tvg-logo="https://vthanh.xyz/ic/222.png", Animal Planet
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="discoveryhd" group-title="🌿| Khám phá" tvg-logo="https://vthanh.xyz/ic/223.png", Discovery
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="discoveryasiahd" group-title="🌿| Khám phá" tvg-logo="https://vthanh.xyz/ic/224.png", Discovery Asia
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="ngchd" group-title="🌿| Khám phá" tvg-logo="https://vthanh.xyz/ic/225.png", National Geographic HD
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="ngwhd" group-title="🌿| Khám phá" tvg-logo="https://vthanh.xyz/ic/226.png", Nat Geo Wild HD
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="outdoorfhd" group-title="🌿| Khám phá" tvg-logo="https://vthanh.xyz/ic/227.png", Outdoor Channel HD
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="🌿| Khám phá" tvg-logo="https://vthanh.xyz/ic/189.png", History HD
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="axnhd" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/228.png", AXN HD
+http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="blueantent" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/229.png", Rock Entertainment
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="blueantext" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/230.png", Rock Extreme
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="dmax" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/186.png", DMAX
+http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORT2-SD-720p/playlist.m3u8
+#EXTINF:-1 tvg-id="mtvhd" group-title="🎶| Âm nhạc" tvg-logo="https://vthanh.xyz/ic/246.png", MTV
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="cinemaworldhd" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/232.png", CinemaWorld
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="fashionhd" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/233.png", Fashion TV
+https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="hits" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/249.png", HITS
+#http://103.195.238.226/hits/mpegts
+#EXTINF:-1 tvg-id="kix" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/234.png", KIX HD
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="tlchd" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/236.png", TLC
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="warnertvhd" group-title="🎬| Giải trí" tvg-logo="https://vthanh.xyz/ic/237.png", Warner TV
+http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="My Apk review",My Apk Review
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27063
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="BEIN SPORTS 4K",BEIN SPORTS PREMIUM 1 (4K)
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27063
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="BEIN SPORTS 4K",BEIN SPORTS PREMIUM 1 (4K)
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27063
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="BEIN SPORTS 4K",BEIN SPORTS PREMIUM 2 (4K)
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27062
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="BEIN SPORTS 4K",BEIN SPORTS PREMIUM 3 (4K)
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27061
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 1 (4K)
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27060
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 2 (4K)
+https://www.linkpicture.com/q/1633624556279.png
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 3 (4K)
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27058
+
+#EXTINF:-1 tvg-logo="https://www.linkpicture.com/q/1633624556279.png" group-title="BEIN SPORTS 4K",BEIN SPORTS 4 (4K)
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27057
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS 4K",BEIN SPORTS 5 (4K)
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27056
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS 4K",BEIN SPORTS 6 (4K)
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27055
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS 4K",BEIN SPORTS 7 (4K)
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27054
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS FHD",BEIN SPORTS PREMIUM 1 FHD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27099
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS FHD",BEIN SPORTS PREMIUM 2 FHD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27098
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS FHD",BEIN SPORTS PREMIUM 3 FHD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27097
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS FHD",BEIN SPORTS 1 FHD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27096
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS FHD",BEIN SPORTS 2 FHD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27095
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS FHD",BEIN SPORTS 3 FHD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27094
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS FHD",BEIN SPORTS 4 FHD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27093
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS FHD",BEIN SPORTS 7 FHD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27090
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS HD",BEIN SPORTS PREMIUM 1 HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27111
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS HD",BEIN SPORTS PREMIUM 2 HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27110
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS HD",BEIN SPORTS HD 1
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27108
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS HD",BEIN SPORTS HD 2
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27107
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS HD",BEIN SPORTS HD 3
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27106
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS HD",BEIN SPORTS HD 4
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27105
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS HD",BEIN SPORTS HD 5
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27104
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS HD",BEIN SPORTS HD 6
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27103
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS HD",BEIN SPORTS HD 7
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27102
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS SD",BEIN SPORT 1 SD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27083
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS SD",BEIN SPORT 2 SD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27082
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS SD",BEIN SPORTS SD 3
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27068
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS SD",BEIN SPORTS SD 4
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27067
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS SD",BEIN SPORTS SD 5
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27066
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS SD",BEIN SPORTS SD 6
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27065
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS SD",BEIN SPORTS SD 7
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27064
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORTS HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27112
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORTS NEWS HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27113
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORTS (2) HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27049
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORTS HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27050
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORTS HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27051
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN LA LIGA
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27052
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD1
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28273
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 1 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28261
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD2
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28272
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 2 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28260
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD3
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28271
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 3 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28259
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD4
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28270
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 4 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28258
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD5
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28269
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 5 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28257
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD6
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28268
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS SD6
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28280
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 6 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28256
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD7
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28267
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS SD7
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28279
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 7 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28255
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD8
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28266
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS SD8
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28278
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 8 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28254
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 9 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28253
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD9
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28265
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS SD9
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28277
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 10 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28252
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD10
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28264
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS SD10
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28276
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD6
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28268
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS SD6
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28280
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 6 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28256
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD7
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28267
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS SD7
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28279
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 7 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28255
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD8
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28266
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS SD8
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28278
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 8 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28254
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 9 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28253
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD9
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28265
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS SD9
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28277
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS 10 4K
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28252
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS HD10
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28264
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS SD10
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28276
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",|AR| BEIN SPORTS NEWS HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/28275
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORT 1 SD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27083
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORT 2 SD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27082
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORT 3 SD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27081
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORTS MAX 6
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27078
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORTS MAX 7
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27077
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORTS MAX 8
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27076
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORTS MAX 9
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27075
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/564x/dc/54/e1/dc54e1cf6ad5caf673281082388b187d.jpg" group-title="BEIN SPORTS",BEIN SPORTS MAX 10
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/27074
+
+
+#EXTINF:-1 tvg-id="" group-title="FOX SPORT" tvg-logo="https://i.ibb.co/R2jPrQ8/Fox-Sports-BEARTV.png", FOX SPORT
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13349
+#http://38.131.11.9:1080/play/a02k
+#EXTINF:-1 tvg-id="" group-title="FOX SPORT" tvg-logo="https://i.ibb.co/m6KmHcX/foxsport2-BEARTV.png", FOX SPORT 2
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13352
+#EXTINF:-1 group-title="FOX SPORT",|NL| FOX SPORTS 1 FHD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/43287
+#EXTINF:-1 group-title="FOX SPORT",|NL| FOX SPORTS 2 HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/43288
+#EXTINF:-1 group-title="FOX SPORT",|NL| FOX SPORTS 2 FHD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/43289
+#EXTINF:-1 group-title="FOX SPORT",|NL| FOX SPORTS 3 HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/43290
+#EXTINF:-1 group-title="FOX SPORT",|NL| FOX SPORTS 4 HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/43292
+#EXTINF:-1 group-title="FOX SPORT",|NL| FOX SPORTS 5 HD
+http://mag.ultimateott.live:8080/190ph3q4q863kvk5/190ph3q4q863kvk5/43293
+#EXTINF:-1 group-title="FOX SPORT", FOX Sports Pluto HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/164785
+#EXTINF:-1 group-title="FOX SPORT", Fox Sports Arizona Plus HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/164918
+#EXTINF:-1 group-title="FOX SPORT", Fox Sports Detroit Plus HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/164920
+#EXTINF:-1 group-title="FOX SPORT", Bally Sports Florida South HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/5943
+#EXTINF:-1 group-title="FOX SPORT", Fox Sports Sun HD South
+http://ingrid.ltd:25461/jfso/BXVhhKh5/164208
+#EXTINF:-1 group-title="FOX SPORT", Fox Sports Indiana HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/164921
+#EXTINF:-1 group-title="FOX SPORT", Fox Sports Indiana Plus HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/19645
+#EXTINF:-1 group-title="FOX SPORT", Fox Sports Midwest HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/6031
+#EXTINF:-1 group-title="FOX SPORT", Fox Sports Southwest HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/5940
+#EXTINF:-1 group-title="FOX SPORT", Fox Sports Southwest+ HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/6018
+#EXTINF:-1 group-title="FOX SPORT", Fox Sports Yes Network HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/6043
+#EXTINF:-1 group-title="FOX SPORT", Fox Sports Detroit Plus HD
+http://ingrid.ltd:25461/jfso/BXVhhKh5/164920
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/lKl2wZH.png",Abu Dhabi Sports 1
+https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/9q8gFsq.png",Abu Dhabi Sports 2
+https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/U6XDpXY.png",Abu Dhabi Sports 3
+https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/wULpnYR.png",ALL Sports
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.snrtlive.ma/sites/all/themes/snrtlive/images/arriyadiax2.png",Arryadia
+https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/5CdW62M.png",ATG
+https://httpcache0-00688-cacheliveedge0.dna.qbrick.com/00688-cacheliveedge0/out/u/atg_sdi_1_free_3.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/G9BMhDS.png",Bahrain Sport 1
+http://185.105.4.106:1935/live/Bahrain%20Sports/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/G9BMhDS.png",Bahrain Sport 1
+https://5c7b683162943.streamlock.net/live/ngrp:Bahrain%20Sports_all/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://pbs.twimg.com/media/DfLqnf4VMAA0m27.png",Bek Sports West
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/playlist.m3u8
+#EXTINF:-1 group-title="Sport",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://www.livenewsmag.com/wp-content/uploads/2017/03/DD-Sports-TV.jpg",DD Sports
+http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing
+https://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing 2
+https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/iYgHR5D.png",Dubai Sports 1
+https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/qBdOZ1x.png",Dubai Sports 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg",Dubai Sports 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+#EXTINF:-1 group-title="Sport",Esport Club
+https://directes-tv-int.ccma.cat/int/ngrp:es3_web/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png",New Japan Pro Wrestling World
+https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="http://part.gov.om/part/images/oman_sport.png",Oman Sport
+https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+https://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://i.imgur.com/7NeBmWX.jpg",Red Bull TV
+https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.linkpicture.com/q/1633624556279.png",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.linkpicture.com/q/1633624556279.png",Sharjah Sport
+https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
+#EXTINF:-1 group-title="Sport" tvg-logo="https://www.linkpicture.com/q/1633624556279.png",Telecaribe Deportes
+https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8 
+#EXTM3U url-tvg="http://gg.gg/epgvn03" refresh="3600" tvg-shift=0 m3uautoload=1
+##VTV
+#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-name="VTV1" tvg-logo="https://i.imgur.com/QcInYpW.png",VTV1
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv2hd" tvg-name="VTV2" tvg-logo="https://i.imgur.com/Oecl699.png",VTV2
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv3hd" tvg-name="VTV3" tvg-logo="https://i.imgur.com/KurtRao.png",VTV3
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv4hd" tvg-name="VTV4" tvg-logo="https://i.imgur.com/CDdM2aJ.png",VTV4
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv5hd" tvg-name="VTV5" tvg-logo="https://i.imgur.com/W0cksu1.png",VTV5
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+#https://vtvnews-livevtv.vtvdigital.vn/c833f10af3e28364a85138ff1a6aac9b/1628818318613/vtv5tn/vtv5tn@720p.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv6hd" tvg-name="VTV6" tvg-logo="https://i.imgur.com/A9x2lzO.png",VTV6
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+#https://vtvgo-livedp.vtvdigital.vn/c6f57485aed03e353451dd2a274b964a/1635341805388/vtv6/vtv6@high.m3u8
+#http://laohac:360@khongsharedau.duckdns.org:9981/stream/channelnumber/106
+#EXTINF:-1 group-title="VTV" tvg-id="vtv7hd" tvg-name="VTV7" tvg-logo="https://i.imgur.com/p655IPH.png",VTV7
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv8hd" tvg-name="VTV8" tvg-logo="https://i.imgur.com/BgCVzvG.png",VTV8
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv9hd" tvg-name="VTV9" tvg-logo="https://mytv.com.vn/upload/channel/117.png",VTV9
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtnb" tvg-logo="https://i-imgur-com.cdn.ampproject.org/i/s/i.imgur.com/BgC6Pby.png",VTV5 Tây Nam Bộ
+https://mutixx5hq1liv.akamaized.net/vtv5tnb/vtv5tnb@720p.m3u8
+#https://vtvnews-livevtv.vtvdigital.vn/dbc98c92f1068d85d4f35690eec00008/1628818203599/vtv5tnb/vtv5tnb@720p.m3u8
+#EXTINF:-1 group-title="VTV" tvg-id="vtv5hdtn" tvg-logo="https://i-imgur-com.cdn.ampproject.org/i/s/i.imgur.com/XSO25Dw.png",VTV5 Tây Nguyên
+https://mutixx5hq1liv.akamaized.net/vtv5tn/vtv5tn@720p.m3u8
+##THỂ THAO
+#EXTINF:-1 group-title="THỂ THAO" tvg-id="htvthethaohd" tvg-logo="https://i.imgur.com/Wvru894.png",HTVC THỂ THAO
+https://vips-livecdn.fptplay.net/hda3/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
+#http://www.vthanh.wtf/vieon.m3u8?kenh=htv-the-thao
+#EXTINF:-1 group-title="THỂ THAO" tvg-id="vtc3hd" tvg-logo="https://i.imgur.com/OKJCE5h.png",VTC3
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-id="vtvcab3hd" tvg-logo="https://mytv.com.vn/upload/channel/36.png",ON Sports
+#http://112.197.12.62/secure/vtvcab3/index.m3u8?md5=ytdJ0cly8LCK3zdy10OuxQ&expires=2556118740
+http://s4.nihontv.net:21585/vtvcab3/index.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="http://dichvu.vtvcab.vn/content/upload/1/9/image/logo-c-c-ki-u-con-----i-u--v/golf-300919.png",GOLF News
+https://884030f97a.vws.vegacdn.vn/live/_definst_/stream_1_a0acb/chunklist.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-id="fitehd" tvg-logo="https://www.fite.tv/static/img/xcropped-FiteTV_SiteIcon-32x32.png.pagespeed.ic.Loea66GAUm.png",FITE sport
+https://cdn-cf.fite.tv:443/linear/fite247/4038629_fite-247/live_722/chunks.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-ID="kokufchd" tvg-logo="https://www.kokfights.tv/img/kok-dark.png",KOK UFC
+https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="http://blog.lcotiv.com/i/23262538088.png",ACTION SPORTS 4U
+https://broadcast.mytvtogo.net/actionsports4you/actionsports4you/chunklist_w869928871.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://i.imgur.com/s5NcNef.png",MMA
+https://a.jsrdn.com/broadcast/80f6ba72c8/+0000/high/c.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://i.imgur.com/5m0i9if.png",ELEVEN UFA (UK)
+https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8?
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/18/ROH-logo.png/220px-ROH-logo.png",RING OF HONOR
+https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/3000.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://cdn.livesoccertv.com/images/logo55.png",Sports TV Plus
+https://rebroadcast.mytvtogo.net/mytvtogo/rebroadcastsportstvplus/chunks.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://images.squarespace-cdn.com/content/v1/5a6f534f017db2d628751be1/1601131230797-9W7CJPDNOK6MR1YCJ13J/EDGEsport+Dark.png?format=1500w",EdgeSport
+https://edgesport-rakuten-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-id="worldoffreesporthd" tvg-logo="https://i.imgur.com/oitvOug.png",World Of Free Sports
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/c.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://driftpointmedia.com/wp-content/uploads/logo-Clients-REDBull.png",REDBULL
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8?id=eroz_brebes.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://driftpointmedia.com/wp-content/uploads/logo-Clients-REDBull.png",BECK TV
+https://wowzaprod188-i.akamaihd.net/hls/live/728897/89b077e6/89b077e6_1_1422000/chunklist.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/Sky_Sports_logo_2020.svg/250px-Sky_Sports_logo_2020.svg.png",Sky Sports (UK)
+https://a.jsrdn.com/broadcast/ab14783a09/+0000/high/c.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/1200px-Sky_Sport_F1_-_Logo_2018.svg.png",SKY SPORTS MOTOR
+http://server.sibfungold.info:8080/gaicu84/Vv094Vv094wOlsHwOlsH/50862
+#EXTINF:-1 group-title="THỂ THAO" tvg-id="dubairacing2hd" tvg-logo="https://i.imgur.com/eytrf0Y.png",Dubai Racing
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://prolive.tv/assets/uploads/channel-8.png",ESPN Brasil
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13359?
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://prolive.tv/assets/uploads/channel-8.png",ESPN UK
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13353
+#EXTINF:-1 group-title="THỂ THAO",Fox Sports AU
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master640x360_v3.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://prolive.tv/assets/uploads/channel-9.png",FOX SPORTS 1 
+http://xcui.vitvabc.xyz:8880/287994000027/287994000027/31155
+#http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13347
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1606204772/cmc_new/img.live_channel/0/0/0/0/237.jpg", FOX SPORT 3
+http://38.131.11.9:1080/play/a034
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="http://xemtv.nhanhnhat.net/image/eleven-sports1.png",ELEVEN Sports 1
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="http://xemtv.nhanhnhat.net/image/tringsport2.png",Tring Sport 2 
+http://185.226.88.6:11026/live/SMYYKzbS0z/HRj5TKnrRx/62.ts
+#http://93.157.62.180/TringSport2HD/index.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://prolive.tv/assets/uploads/channel-149.jpg",SPORTV BRZ
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13097?
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Sporttv_logo.png",SPORTV 2 BRZ
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13100?
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f3/Sporttv_logo.png",SPORTV 3 BRZ
+http://painel.tvdigitalsbl.net:80/CASSIANO1/CASSIANO1/13104
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://files.startupranking.com/startup/thumb/17339_1d475cd17f8af2e26a630dc194d7bde2655c7197_ksport-tv_m.png", KSport 1
+#https://bf.moonmagic.cn/live/sd-1-3565130.m3u8
+http://93.157.62.180/KSport1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="THỂ THAO" tvg-logo="https://files.startupranking.com/startup/thumb/17339_1d475cd17f8af2e26a630dc194d7bde2655c7197_ksport-tv_m.png", KSport 2
+http://93.157.62.180/KSport2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://daga360.com/wp-content/uploads/2020/06/cropped-DAga360-1.png'" group-title="THỂ THAO",ĐÁ GÀ  360
+https://r.daga12h.com:5000/live/360/360.m3u8?domain=360&key=78x6ctk6crx32d1e64vk8bhj6gu2wc9m61fk6dhgbxj6jx3dcnpp2y8|Referer=https://daga360.com/da-ga-truc-tiep/
+#EXTINF:-1 tvg-logo="https://daga360.com/wp-content/uploads/2020/06/cropped-DAga360-1.png'" group-title="THỂ THAO",ĐÁ GÀ  360 HD
+https://r.daga12h.com:5000/live/12h/360.m3u8?key=78x6ctk6crx32d1e64vk8bhj6gu2wc9m61fqavk4cnk6jvk5chfp8ubmdnjpurbt|Referer=https://daga12h.com/dagatructiep
+#EXTINF:-1 tvg-logo="https://daga360.com/wp-content/uploads/2020/06/cropped-DAga360-1.png'" group-title="THỂ THAO", ĐÁ GÀ BLV
+https://daga49.com/playlist/ab4ef6bbbad9afca4e2dacd37eb097b21600590064297.m3u8|Referer=https://dagablv.com/da-ga-truc-tiep/
+
+# BÓNG ĐÁ LIVE
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 1 (BLV:Liu men)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may1SD/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/61646d97a6651b3afc198084.html
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 2
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may3SD/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/616ef999a6651b183b2f3a1c.html
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 3
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may4/chunklist.m3u8|Referer=https://mitom.90phuttt.xyz/6176fa94e5fdc40095362bc6.html
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 4
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may6/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/616ef99aa6651b183b2f3a23.html
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 5 (BLV nhà đài) 
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may7/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/6169b39ca6651b28e16b3b22.html
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 6 (BLV: Nhà Đài)
+https://p90020921.vnroute.com/may9/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/616ef999a6651b183b2f3a21.html
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 7 (BLV Ầu men)
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@123SD/chunklist.m3u8|Referer=https://mitom.90phuttt.xyz/6165c4f3a6651b1e4e649025.html
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 8
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may41/chunklist.m3u8|Referer=https://mitom.90phuttt.xyz/6176fa94e5fdc40095362bc6.html
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 9
+https://nvndcagevswv87c6afake.thapcam.link/live/_definst_/stream_1_1bda7@may61/playlist.m3u8|Referer=https://mitom.90phuttt.xyz/61759ef7e5fdc4009106539a.html
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 10
+https://livestream-2.socialstreaming.tv/live/617d52230fad37001c4553d0/617d52230fad37001c4553d0.m3u8|Referer=https://mitom.90phuttt.xyz/61759ef7e5fdc4009106539a.html
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://i.imgur.com/jyM3inb.png",90PHUT.TV 11
+https://p90020921.vnroute.com/may4/chunks.m3u8|Referer=https://mitom.90phuttt.xyz/61759ef7e5fdc4009106539a.html
+
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png",CAKHIA.TV 1 (BLV: Nhà Đài)
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m101nd/chunklist.m3u8|Referer=http://cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png",CAKHIA.TV 2 (BLV: BLV: Giàng A Cay)
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@cakhiahd1/chunklist.m3u8|Referer=http://cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png",CAKHIA.TV 3 (BLV nhà đài)
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m202nd/chunklist.m3u8|Referer=http://cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png",CAKHIA.TV 4 (BLV:Nhà đài)
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m204nd/chunklist.m3u8|Referer=http://cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png",CAKHIA.TV 5
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m301nd/playlist.m3u8|Referer=http://cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png",CAKHIA.TV 6
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8|Referer=http://cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png",CAKHIA.TV 7
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m401nd/chunklist.m3u8|Referer=http://cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png",CAKHIA.TV 8
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m501nd/playlist.m3u8|Referer=http://cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png",CAKHIA.TV 9
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m502nd/playlist.m3u8|Referer=http://cakhia6.tv/truc-tiep
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://static.fastlycdnlive.xyz/template2/user/img/ckstrim.png",CAKHIA.TV 10
+https://livefake.fastlycdnlive.xyz/live/_definst_/stream_1_a86e6@m104nd/chunklist.m3u8|Referer=http://cakhia6.tv/truc-tiep
+
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://vuasanco2.xyz/Logo.png",VUASANCO 1 Manchester United - Manchester City
+https://cdnorigin2.livefb.club/sky88/f1096c07-101f-47c3-a499-3b479e26bc75720p-playlist.m3u8
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://vuasanco2.xyz/Logo.png",VUASANCO 2
+https://cdnorigin6.livefb.club/sky88/630eae7c-9c6d-44e4-83fd-134d0306affd720p-playlist.m3u8
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://vuasanco2.xyz/Logo.png",VUASANCO 3
+https://cdnorigin6.livefb.club/sky88/a109fffc-c2f3-4cd4-8a05-617e947699b6720p-playlist.m3u8
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://vuasanco2.xyz/Logo.png",VUASANCO 4
+https://cdnorigin6.livefb.club/sky88/630eae7c-9c6d-44e4-83fd-134d0306affd720p-playlist.m3u8
+#EXTINF:-1 group-title="BÓNG ĐÁ LIVE" tvg-logo="https://vuasanco2.xyz/Logo.png",VUASANCO 5
+https://vn51mid.teamfl.fun/streams-5/cc870b80-a90f-4f3b-ab06-4b04f2151cb6720p-playlist.m3u8
